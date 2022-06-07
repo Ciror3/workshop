@@ -14,10 +14,11 @@ def max_sum_recursive(nums):
 
 def perfect_square(n):
     return n**0.5 == int(n**0.5)
-print(perfect_square(16))
+print(perfect_square(17))
 
 def recursive_factorial(n):
     if n == 1:
         return 1
     else:
         return n * recursive_factorial(n-1)
+print(recursive_factorial(48))
