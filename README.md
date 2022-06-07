@@ -1,2 +1,2 @@
 # Workshop
-Clase alvaroo
+Clase alvaro
