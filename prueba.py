@@ -21,4 +21,4 @@ def recursive_factorial(n):
         return 1
     else:
         return n * recursive_factorial(n-1)
-print(recursive_factorial(48))
+print(recursive_factorial(998))
